@@ -1,0 +1,9 @@
+c:\users\toshiba97\documents\visual studio 2015\Projects\atm_bank\atm_bank\bin\Debug\atm_bank.exe.config
+c:\users\toshiba97\documents\visual studio 2015\Projects\atm_bank\atm_bank\bin\Debug\atm_bank.exe
+c:\users\toshiba97\documents\visual studio 2015\Projects\atm_bank\atm_bank\bin\Debug\atm_bank.pdb
+c:\users\toshiba97\documents\visual studio 2015\Projects\atm_bank\atm_bank\obj\Debug\atm_bank.csprojResolveAssemblyReference.cache
+c:\users\toshiba97\documents\visual studio 2015\Projects\atm_bank\atm_bank\obj\Debug\atm_bank.Form1.resources
+c:\users\toshiba97\documents\visual studio 2015\Projects\atm_bank\atm_bank\obj\Debug\atm_bank.Properties.Resources.resources
+c:\users\toshiba97\documents\visual studio 2015\Projects\atm_bank\atm_bank\obj\Debug\atm_bank.csproj.GenerateResource.Cache
+c:\users\toshiba97\documents\visual studio 2015\Projects\atm_bank\atm_bank\obj\Debug\atm_bank.exe
+c:\users\toshiba97\documents\visual studio 2015\Projects\atm_bank\atm_bank\obj\Debug\atm_bank.pdb

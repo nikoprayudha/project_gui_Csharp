@@ -1,0 +1,14 @@
+c:\users\toshiba97\documents\visual studio 2015\Projects\Barang\Barang\bin\Debug\Barang.exe.config
+c:\users\toshiba97\documents\visual studio 2015\Projects\Barang\Barang\bin\Debug\Barang.exe
+c:\users\toshiba97\documents\visual studio 2015\Projects\Barang\Barang\bin\Debug\Barang.pdb
+c:\users\toshiba97\documents\visual studio 2015\Projects\Barang\Barang\obj\Debug\Barang.Form1.resources
+c:\users\toshiba97\documents\visual studio 2015\Projects\Barang\Barang\obj\Debug\Barang.Properties.Resources.resources
+c:\users\toshiba97\documents\visual studio 2015\Projects\Barang\Barang\obj\Debug\Barang.csproj.GenerateResource.Cache
+c:\users\toshiba97\documents\visual studio 2015\Projects\Barang\Barang\obj\Debug\Barang.exe
+c:\users\toshiba97\documents\visual studio 2015\Projects\Barang\Barang\obj\Debug\Barang.pdb
+C:\Users\TOSHIBA97\Documents\Visual Studio 2015\Projects\Barang\Barang\obj\Debug\Barang.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA97\Documents\Visual Studio 2015\Projects\Barang\Barang\obj\Debug\Barang.Models.FormPakaian.resources
+C:\Users\TOSHIBA97\Documents\Visual Studio 2015\Projects\Barang\Barang\obj\Debug\Barang.Models.FormSepatu.resources
+C:\Users\TOSHIBA97\Documents\Visual Studio 2015\Projects\Barang\Barang\obj\Debug\Barang.Models.FormUkuranPakaian.resources
+C:\Users\TOSHIBA97\Documents\Visual Studio 2015\Projects\Barang\Barang\obj\Debug\Barang.Models.FormUkuranSepatu.resources
+C:\Users\TOSHIBA97\Documents\Visual Studio 2015\Projects\Barang\Barang\obj\Debug\Barang.Models.FormWarna.resources

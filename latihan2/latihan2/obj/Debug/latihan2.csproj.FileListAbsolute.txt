@@ -1,0 +1,10 @@
+c:\users\toshiba97\documents\visual studio 2015\Projects\latihan2\latihan2\bin\Debug\latihan2.exe.config
+c:\users\toshiba97\documents\visual studio 2015\Projects\latihan2\latihan2\bin\Debug\latihan2.exe
+c:\users\toshiba97\documents\visual studio 2015\Projects\latihan2\latihan2\bin\Debug\latihan2.pdb
+c:\users\toshiba97\documents\visual studio 2015\Projects\latihan2\latihan2\obj\Debug\latihan2.csprojResolveAssemblyReference.cache
+c:\users\toshiba97\documents\visual studio 2015\Projects\latihan2\latihan2\obj\Debug\latihan2.Form1.resources
+c:\users\toshiba97\documents\visual studio 2015\Projects\latihan2\latihan2\obj\Debug\latihan2.Properties.Resources.resources
+c:\users\toshiba97\documents\visual studio 2015\Projects\latihan2\latihan2\obj\Debug\latihan2.Resource1.resources
+c:\users\toshiba97\documents\visual studio 2015\Projects\latihan2\latihan2\obj\Debug\latihan2.csproj.GenerateResource.Cache
+c:\users\toshiba97\documents\visual studio 2015\Projects\latihan2\latihan2\obj\Debug\latihan2.exe
+c:\users\toshiba97\documents\visual studio 2015\Projects\latihan2\latihan2\obj\Debug\latihan2.pdb

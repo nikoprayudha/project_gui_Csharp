@@ -1,0 +1,6 @@
+c:\users\toshiba97\documents\visual studio 2015\Projects\latihan1\latihan1\bin\Debug\latihan1.exe.config
+c:\users\toshiba97\documents\visual studio 2015\Projects\latihan1\latihan1\bin\Debug\latihan1.exe
+c:\users\toshiba97\documents\visual studio 2015\Projects\latihan1\latihan1\bin\Debug\latihan1.pdb
+c:\users\toshiba97\documents\visual studio 2015\Projects\latihan1\latihan1\obj\Debug\latihan1.csprojResolveAssemblyReference.cache
+c:\users\toshiba97\documents\visual studio 2015\Projects\latihan1\latihan1\obj\Debug\latihan1.exe
+c:\users\toshiba97\documents\visual studio 2015\Projects\latihan1\latihan1\obj\Debug\latihan1.pdb

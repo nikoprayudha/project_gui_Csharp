@@ -1,0 +1,14 @@
+c:\users\toshiba97\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\bin\Debug\MP3 Player.exe.config
+c:\users\toshiba97\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\bin\Debug\MP3 Player.exe
+c:\users\toshiba97\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\bin\Debug\MP3 Player.pdb
+c:\users\toshiba97\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\bin\Debug\Interop.WMPLib.dll
+c:\users\toshiba97\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\bin\Debug\AxInterop.WMPLib.dll
+c:\users\toshiba97\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\MP3 Player.csprojResolveAssemblyReference.cache
+c:\users\toshiba97\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\Interop.WMPLib.dll
+c:\users\toshiba97\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\AxInterop.WMPLib.dll
+c:\users\toshiba97\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\MP3 Player.csproj.ResolveComReference.cache
+c:\users\toshiba97\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\MP3_Player.Form1.resources
+c:\users\toshiba97\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\MP3_Player.Properties.Resources.resources
+c:\users\toshiba97\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\MP3 Player.csproj.GenerateResource.Cache
+c:\users\toshiba97\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\MP3 Player.exe
+c:\users\toshiba97\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\MP3 Player.pdb

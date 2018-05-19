@@ -1,0 +1,11 @@
+c:\users\toshiba97\documents\visual studio 2015\Projects\DataMhs\DataMhs\bin\Debug\DataMhs.exe.config
+c:\users\toshiba97\documents\visual studio 2015\Projects\DataMhs\DataMhs\bin\Debug\DataMhs.exe
+c:\users\toshiba97\documents\visual studio 2015\Projects\DataMhs\DataMhs\bin\Debug\DataMhs.pdb
+c:\users\toshiba97\documents\visual studio 2015\Projects\DataMhs\DataMhs\obj\Debug\DataMhs.csprojResolveAssemblyReference.cache
+c:\users\toshiba97\documents\visual studio 2015\Projects\DataMhs\DataMhs\obj\Debug\DataMhs.Form1.resources
+c:\users\toshiba97\documents\visual studio 2015\Projects\DataMhs\DataMhs\obj\Debug\DataMhs.Properties.Resources.resources
+c:\users\toshiba97\documents\visual studio 2015\Projects\DataMhs\DataMhs\obj\Debug\DataMhs.csproj.GenerateResource.Cache
+c:\users\toshiba97\documents\visual studio 2015\Projects\DataMhs\DataMhs\obj\Debug\DataMhs.exe
+c:\users\toshiba97\documents\visual studio 2015\Projects\DataMhs\DataMhs\obj\Debug\DataMhs.pdb
+c:\users\toshiba97\documents\visual studio 2015\Projects\DataMhs\DataMhs\obj\Debug\DataMhs.FormAgama.resources
+c:\users\toshiba97\documents\visual studio 2015\Projects\DataMhs\DataMhs\obj\Debug\DataMhs.FormMahasiswa.resources

@@ -1,0 +1,6 @@
+c:\users\toshiba97\documents\visual studio 2015\Projects\Tugas_Jobsheet1\Tugas_Jobsheet1\bin\Debug\Tugas_Jobsheet1.exe.config
+c:\users\toshiba97\documents\visual studio 2015\Projects\Tugas_Jobsheet1\Tugas_Jobsheet1\bin\Debug\Tugas_Jobsheet1.exe
+c:\users\toshiba97\documents\visual studio 2015\Projects\Tugas_Jobsheet1\Tugas_Jobsheet1\bin\Debug\Tugas_Jobsheet1.pdb
+c:\users\toshiba97\documents\visual studio 2015\Projects\Tugas_Jobsheet1\Tugas_Jobsheet1\obj\Debug\Tugas_Jobsheet1.csprojResolveAssemblyReference.cache
+c:\users\toshiba97\documents\visual studio 2015\Projects\Tugas_Jobsheet1\Tugas_Jobsheet1\obj\Debug\Tugas_Jobsheet1.exe
+c:\users\toshiba97\documents\visual studio 2015\Projects\Tugas_Jobsheet1\Tugas_Jobsheet1\obj\Debug\Tugas_Jobsheet1.pdb
